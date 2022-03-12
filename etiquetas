@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <header>
+
+        <h1>Etiquetas Semanticas CSS  GRID</h1>
+
+    </header>
+
+    <nav class="menu">
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Temas 1 y 2</a></li>
+
+        </ul>
+        <li><a href="#">Recursos Multimedios</a></li>
+        <ul>
+          <li>Recurso #1</li>
+          <li>Recurso #2</li>
+
+        </ul>
+        <li><a href="#">Aprendizaje</a></li>
+          <ul>
+            <li>Actividad #1</li>
+            <li>Actividad #2</li>
+          </ul>
+         <li><a href="#">Acerca de</a></li>
+                <ul>
+                    <li>Autor</li>
+                </ul>
+        </ul>
+      </nav>
+      <section>
+        <h1>Etiquetas Basicas HTML</h1>
+
+    </ul>
+    <li><a href="#">Aprendizaje</a></li>
+      <ul>
+        <li>Actividad 1</li>
+        <li>Actividad 2</li>
+      </ul>
+     <li><a href="#">Acerca de</a></li>
+            <ul>
+                <li>Autor</li>
+            </ul>
+    </ul>
+  </nav>
+  <section>
+    <h1>Etiquetas Basicas HTML</h1>
+     </ul>
+        <li><a href="#">Aprendizaje</a></li>
+          <ul>
+            <li>Actividad 1</li>
+            <li>Actividad 2</li>
+          </ul>
+         <li><a href="#">Acerca de</a></li>
+                <ul>
+                    <li>Autor</li>
+                </ul>
+        </ul>
+      </nav>
+      <section>
+        <h1>Etiquetas Semanticas CSS grid </h1>
+        <p> Con este sitio queremos fomentar la utilizacion de lo que son las etiquetas semanticas para la mejora de la organizacion de una pagina web 
+
+            <article>
+                <h3>Etiquetas semanticas CSS Grid.</h3>
+
+                <p> El propio lenguaje HTML es una de las muchas tecnologías que se ha renovado con la llegada de HTML5. Se han incorporado numerosas etiquetas que no estaban en versiones anteriores del lenguaje de marcación, que podemos clasificar en función de su utilidad o características, una de estas clasificaciones son las etiquetas semánticas.
+                    Las etiquetas semánticas ayudan a definir la estructura del documento y permiten que las páginas web sean mejor indexadas por los buscadores. Una etiqueta se califica como semántica si tiene que ver el significado, es decir, si nos informa sobre lo que trata su contenido.
+
+                
+            </article>
+
+                        <h6> https://desarrolloweb.com/articulos/etiquetas-semanticas-html5.html
+
+                            <footer>
+                                <h6>Correo: deliapoma1995@gmail.com <br> Skype:3008231185 <br> 11/03/2022</h6>
+                            </footer>
+                            
+                            
+                            
+                            </body></center>
+                            </etiquetas-semanticas-html5>
